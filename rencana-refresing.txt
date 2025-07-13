@@ -1,0 +1,6 @@
+list tempat healing 
+transtudio 
+citylink
+tegalega 
+mesjid aljabar 
+mesjid tsb
