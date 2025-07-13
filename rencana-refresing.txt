@@ -1,0 +1,5 @@
+list tempat healing 
+transtudio 
+citylink
+tegalega 
+aljabar 
