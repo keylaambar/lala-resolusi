@@ -1,5 +1,6 @@
 list tempat healing 
-transtudio 
+transtudio
+*menggunakan mobil pajero 
 citylink
 tegalega 
 mesjid aljabar 
