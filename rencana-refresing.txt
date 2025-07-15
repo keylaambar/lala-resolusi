@@ -1,4 +1,6 @@
 list tempat healing 
+transtudio
+*menggunakan mobil pajero 
 transtudio 
 *pada tanggal 15 juli 2025
 citylink
