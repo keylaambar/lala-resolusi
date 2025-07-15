@@ -1,6 +1,8 @@
 list tempat healing 
 transtudio 
+*pada tanggal 15 juli 2025
 citylink
+*pada tanggal 16 juli 2025
 tegalega 
 mesjid aljabar 
 mesjid tsb
